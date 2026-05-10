@@ -1,1 +1,1 @@
-# Magnus---Chess-Playing-Niryo-One-Robotic-Arm
+# Magnus-Chess-Playing-Niryo-One-Robotic-Arm
